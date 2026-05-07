@@ -35,7 +35,8 @@ It provides interactive insights using filters and visualizations.
 
 ## 📷 Dashboard Preview
 
-<img width="850" height="510" alt="Screenshot 2026-05-08 014708" src="https://github.com/user-attachments/assets/70c8d510-46f9-44dd-bcc5-2b73129d63ab" />
+<img width="853" height="506" alt="Screenshot 2026-05-08 021650" src="https://github.com/user-attachments/assets/cb1b1196-881f-4f6e-acce-6ad042cf7ffa" />
+
 
 ---
 
