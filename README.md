@@ -1,7 +1,6 @@
-# 📊 Student Performance Dashboard (Power BI)
+# 📊 Student Performance Analysis Dashboard (Power BI)
 
-This project is a Power BI dashboard that analyzes student performance in **Math, Reading, and Writing scores**.  
-It provides interactive insights using filters and visualizations.
+This project is an interactive Power BI dashboard that analyzes student performance in Math, Reading, and Writing. It helps to identify patterns and insights using visual analytics and dynamic filters.
 
 ---
 
@@ -12,7 +11,13 @@ It provides interactive insights using filters and visualizations.
 - Average score comparison (Math vs Reading vs Writing)
 - Interactive slicers for dynamic filtering
 - KPI card for overall performance
+- Student performance insights through visual storytelling
 
+## 📈 Key Insights
+
+- Female students perform better in reading scores  
+- Group E has the highest average performance  
+- Test preparation significantly improves scores 
 ---
 
 ## 📊 Visualizations Used
@@ -27,19 +32,20 @@ It provides interactive insights using filters and visualizations.
 
 ## 🛠 Tools Used
 
-- Power BI  
+- Power BI Desktop  
 - Data Visualization  
-- Basic DAX  
+- DAX (Basic Calculations)    
 
 ---
 
 ## 📷 Dashboard Preview
 
-<img width="853" height="506" alt="Screenshot 2026-05-08 021650" src="https://github.com/user-attachments/assets/cb1b1196-881f-4f6e-acce-6ad042cf7ffa" />
+<img width="853" height="506" alt="dashboard" src="https://github.com/user-attachments/assets/60841808-407f-4a6f-89b3-88b3fd7e5e41" />
+
 
 
 ---
 
 ## 🚀 Outcome
 
-This dashboard helps in understanding how different factors like gender and ethnicity affect student performance.
+This dashboard provides insights into how factors like gender and ethnicity impact student performance. It helps in data-driven decision making for academic improvement strategies.
